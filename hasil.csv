@@ -1,0 +1,5 @@
+name,age,review,rating,isVerified
+John,20,Good,5,True
+Doe,21,Bad,4,False
+Jane,22,Good,3,True
+Jafar,23,Bad,2,False
